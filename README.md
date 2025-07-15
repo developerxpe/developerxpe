@@ -1,14 +1,131 @@
-<h1 align="center">Hi 👋, I'm Developerxpe</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=developerxpe&label=Profile%20views&color=0e75b6&style=flat" alt="developerxpe" /> </p>
-<h3 align="center">React & React Native Developer ⚛️ </h3><br><hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<style>
+.index-page img {
+  aspect-ratio: auto !important;
+}
 
-<h4>Hi, I'm Selim. I am a passionate self-taught developer who has
-learned software development without a formal university
-education. Every day, I dedicate 8-10 hours to improving my skills
-and deepening my knowledge in this field.I have a strong interest in
-React, React Native, Astro, JavaScript, CRUD API, SQL, and
-WordPress. My goal is to build web applications from scratch and
-integrate them without relying on AI assistance. For me, software
-development is more than just a profession—it is my childhood
-dream.</h4>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray"><br>
+/* GitHub stats büyütme */
+.index-page img[src*="github-readme-stats"] {
+  width: 80% !important;
+  max-width: 600px !important;
+  /* height: auto !important; */
+}
+
+/* Mobil responsive */
+@media (max-width: 768px) {
+  .index-page img[src*="github-readme-stats"] {
+    width: 100% !important;
+    max-width: 450px !important;
+  }
+  
+  .index-page table {
+    width: 100% !important;
+  }
+  
+  .index-page td {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .index-page img[src*="github-readme-stats"] {
+    width: 100% !important;
+    max-width: 350px !important;
+  }
+}
+
+/* Kod bloğunu ortalama ama içeriği sola yaslama */
+.index-page pre {
+  display: block !important;
+  margin: 0 auto !important;
+  max-width: 600px !important;
+  padding: 20px !important;
+  text-align: left !important;
+  border-radius: 8px !important;
+}
+</style>
+
+<div class="index-page">
+
+<div align="center">
+
+# Hi, 👋
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=developerxpe&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+<br>
+
+</div>
+
+
+
+## About Me
+---
+<br>
+<div align="center">
+
+```javascript
+const selim = {
+    role: "Self-Taught Developer",
+    passion: "Building apps from scratch",
+    goal: "Full-featured apps without being dependent on AI"
+};
+```
+
+</div>
+
+<br>
+
+## Technologies
+---
+<br>
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+<br>
+
+## GitHub Stats
+---
+<br>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerxpe&show_icons=true&theme=tokyonight&hide_border=true)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerxpe&layout=compact&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## Download My CV
+---
+<br>
+<div align="center">
+
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](/selim_en_resume_public.pdf)
+
+</div>
+
+</div>
