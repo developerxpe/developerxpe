@@ -16,7 +16,7 @@
 ## About Me
 ---
 <br>
-<div align="center">
+
 
 ```javascript
 const selim = {
@@ -26,7 +26,7 @@ const selim = {
 };
 ```
 
-</div>
+
 
 <br>
 
@@ -70,14 +70,5 @@ const selim = {
 </div>
 
 <br>
-
-## Download My CV
----
-<br>
-<div align="center">
-
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](/selim_en_resume_public.pdf)
-
-</div>
 
 </div>
